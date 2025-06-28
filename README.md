@@ -23,7 +23,7 @@ To install and run Homibro on your machine:
 git clone https://github.com/James7688/HomiBro.git
 cd HomiBro
 pip install -r requirements.txt
-python main.py
+python homibro.py
 ```
 ## CREDIT:
 Quy Anh Nguyen - Developer
