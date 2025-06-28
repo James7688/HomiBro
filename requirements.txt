@@ -1,0 +1,9 @@
+transformers
+torch
+pyttsx3
+pygame
+speechrecognition
+beautifulsoup4
+requests
+lxml
+pillow
